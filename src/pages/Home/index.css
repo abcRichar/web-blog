@@ -1,0 +1,22 @@
+.about-txt{
+  height: 300px;
+  line-height: 300px;
+}
+
+.art-item{
+  /* border: 1px solid #ccc; */
+  display: flex;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, .5);
+  backdrop-filter:blur(2px);
+  margin-bottom: 10px;
+}
+.art-title{
+  font-size: 32px;
+  font-weight: bold;
+}
+.art-cont{
+  font-size: 18px;
+  color: #666;
+}
